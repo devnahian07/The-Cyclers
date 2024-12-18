@@ -1,7 +1,3 @@
-Sure! Here's a well-structured **README.md** for your project that will make it professional and easy to understand on GitHub.
-
----
-
 ### **README.md**
 
 # 🚲 The Cyclers - Automated Cycle Borrowing System
@@ -120,25 +116,8 @@ The-Cyclers/
 
 ---
 
-## **Contributors**
-- **Shabnam Jerin**  
-- **Al Nahian**  
-- **Md Jubaer Hossain**  
-- **Ehsun Imam Hasan**  
-- **Sanjina Iftasum**
-
----
-
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## **Contact**
 For any queries or contributions, feel free to reach out:
-- **Email**: yourname@email.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: devnahian749@gmail.com  
 
 ---
-
-This README should make your GitHub project clear, attractive, and professional! 🚀
