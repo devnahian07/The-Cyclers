@@ -45,10 +45,10 @@ Database (MySQL)
 ## **Screenshots**
 
 ### 1. **Main Dashboard**
-![Main Dashboard](link-to-image-placeholder)
+![Main Dashboard](Dashboard.png)
 
 ### 2. **Admin View for Filtering and Searching Data**
-![Admin View](link-to-image-placeholder)
+![Admin View](Admin.png)
 
 ---
 
